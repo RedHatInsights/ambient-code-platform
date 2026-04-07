@@ -7,6 +7,7 @@ Next.js UI for managing Agentic Sessions and Projects. In local development it p
 - Go 1.24+ (to run the backend locally)
 - oc/kubectl configured to your OpenShift/Kubernetes cluster
 
+
 ### Backend (local) quick start
 Run the backend locally while targeting your cluster.
 
