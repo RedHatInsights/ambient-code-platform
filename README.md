@@ -14,6 +14,7 @@ The Ambient Code Platform combines Claude Code CLI with multi-agent collaboratio
 - **Kubernetes Native**: Custom Resources, Operators, and proper RBAC for enterprise deployment
 - **Real-time Monitoring**: Live status updates and job execution tracking
 
+
 ## Quick Start
 
 See [CONTRIBUTING.md](CONTRIBUTING.md#local-development-setup) for full local development setup with Kind.
