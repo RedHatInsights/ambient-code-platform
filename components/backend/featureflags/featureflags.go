@@ -9,8 +9,8 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/Unleash/unleash-go-sdk/v5"
-	unleashContext "github.com/Unleash/unleash-go-sdk/v5/context"
+	"github.com/Unleash/unleash-go-sdk/v6"
+	unleashContext "github.com/Unleash/unleash-go-sdk/v6/context"
 )
 
 const appName = "ambient-code-backend"
