@@ -16,7 +16,7 @@ COPY . .
 RUN CGO_ENABLED=0 GOOS=linux go build -ldflags="-w -s" -o public-api .
 
 # Runtime stage
-FROM registry.access.redhat.com/ubi9/ubi-minimal:9.7
+FROM registry.access.redhat.com/ubi9/ubi-minimal:9.7-1775623882
 
 WORKDIR /app
 
