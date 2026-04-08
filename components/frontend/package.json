@@ -77,7 +77,7 @@
     "babel-plugin-istanbul": "^7.0.1",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
-    "jsdom": "^28.1.0",
+    "jsdom": "^29.0.0",
     "swc-plugin-coverage-instrument": "^0.0.32",
     "tailwindcss": "^4",
     "typescript": "^5",
