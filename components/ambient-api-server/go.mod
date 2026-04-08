@@ -14,7 +14,7 @@ require (
 	github.com/spf13/pflag v1.0.6
 	google.golang.org/grpc v1.79.3
 	google.golang.org/protobuf v1.36.11
-	gopkg.in/resty.v1 v1.12.0
+	gopkg.in/resty.v2 v2.17.2
 	gorm.io/gorm v1.31.1
 )
 
