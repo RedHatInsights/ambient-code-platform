@@ -2,7 +2,7 @@ module ambient-code-backend
 
 go 1.24.0
 
-toolchain go1.24.7
+toolchain go1.26.2
 
 require (
 	github.com/Unleash/unleash-go-sdk/v5 v5.1.0

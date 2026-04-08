@@ -2,7 +2,7 @@ module github.com/ambient-code/platform/components/ambient-api-server
 
 go 1.24.0
 
-toolchain go1.24.9
+toolchain go1.26.2
 
 require (
 	github.com/go-gormigrate/gormigrate/v2 v2.1.5

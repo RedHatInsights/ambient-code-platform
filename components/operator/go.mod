@@ -2,7 +2,7 @@ module ambient-code-operator
 
 go 1.24.0
 
-toolchain go1.24.7
+toolchain go1.26.2
 
 require (
 	go.opentelemetry.io/otel v1.40.0
