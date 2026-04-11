@@ -7,7 +7,7 @@ toolchain go1.24.9
 require (
 	github.com/go-gormigrate/gormigrate/v2 v2.1.5
 	github.com/golang/glog v1.2.5
-	github.com/gorilla/mux v1.7.3
+	github.com/gorilla/mux v1.8.1
 	github.com/onsi/gomega v1.27.1
 	github.com/openshift-online/ocm-sdk-go v0.1.334
 	github.com/openshift-online/rh-trex-ai v0.0.25
