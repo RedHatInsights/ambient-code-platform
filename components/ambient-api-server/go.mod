@@ -8,7 +8,7 @@ require (
 	github.com/go-gormigrate/gormigrate/v2 v2.1.5
 	github.com/golang/glog v1.2.5
 	github.com/gorilla/mux v1.7.3
-	github.com/onsi/gomega v1.27.1
+	github.com/onsi/gomega v1.39.1
 	github.com/openshift-online/ocm-sdk-go v0.1.334
 	github.com/openshift-online/rh-trex-ai v0.0.25
 	github.com/spf13/pflag v1.0.6
@@ -108,11 +108,12 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.40.0 // indirect
 	go.opentelemetry.io/otel/trace v1.40.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.9.0 // indirect
-	golang.org/x/crypto v0.46.0 // indirect
-	golang.org/x/net v0.48.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	golang.org/x/crypto v0.47.0 // indirect
+	golang.org/x/net v0.49.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
 	golang.org/x/sys v0.40.0 // indirect
-	golang.org/x/text v0.32.0 // indirect
+	golang.org/x/text v0.33.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20251202230838-ff82c1b0f217 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217 // indirect
