@@ -6,7 +6,7 @@ toolchain go1.24.7
 
 require (
 	github.com/Unleash/unleash-go-sdk/v5 v5.1.0
-	github.com/anthropics/anthropic-sdk-go v1.2.0
+	github.com/anthropics/anthropic-sdk-go v1.37.0
 	github.com/gin-contrib/cors v1.7.6
 	github.com/gin-gonic/gin v1.10.1
 	github.com/go-ldap/ldap/v3 v3.4.12
