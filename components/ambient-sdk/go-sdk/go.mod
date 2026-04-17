@@ -1,11 +1,9 @@
 module github.com/ambient-code/platform/components/ambient-sdk/go-sdk
 
-go 1.24.0
-
-toolchain go1.24.4
+go 1.25.0
 
 require (
-	github.com/ambient-code/platform/components/ambient-api-server v0.0.0-20260304211549-047314a7664b
+	github.com/ambient-code/platform/components/ambient-api-server v0.0.0-20260417043143-4e063b0e9378
 	google.golang.org/grpc v1.79.3
 )
 
