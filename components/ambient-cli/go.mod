@@ -1,8 +1,6 @@
 module github.com/ambient-code/platform/components/ambient-cli
 
-go 1.24.0
-
-toolchain go1.24.4
+go 1.25.0
 
 require (
 	github.com/ambient-code/platform/components/ambient-sdk/go-sdk v0.0.0
@@ -15,7 +13,7 @@ require (
 )
 
 require (
-	github.com/ambient-code/platform/components/ambient-api-server v0.0.0-20260304211549-047314a7664b // indirect
+	github.com/ambient-code/platform/components/ambient-api-server v0.0.0-20260417043143-4e063b0e9378 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
 	github.com/charmbracelet/x/ansi v0.10.1 // indirect
